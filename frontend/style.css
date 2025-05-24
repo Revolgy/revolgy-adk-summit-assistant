@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.stButton > button {
+    background-color: #FFD700; /* Yellow */
+    color: #1D1D1F; /* Black-ish */
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background-color: #FFC300; /* Slightly darker yellow for hover effect */
+}
+
+/* Mobile-first design adjustments */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .stButton > button {
+        padding: 1rem 1.5rem;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 13px;
+        padding: 8px;
+    }
+
+    h1 {
+        font-size: 1.1rem; /* Decrease further for mobile */
+        margin-bottom: 12px;
+    }
+
+    h2, h3, h4 {
+        font-size: 1.1rem;
+    }
+
+    .button-row {
+        flex-direction: column;
+        gap: 0.2rem;
+        margin-bottom: 0.1rem;
+    }
+
+    .how-it-works-btn,
+    .example-prompts-btn,
+    .disclaimer-tooltip {
+        width: 100%;
+        padding: 10px 0;
+        font-size: 1rem;
+    }
+
+    .disclaimer-tooltip {
+        position: fixed !important;
+        left: 50% !important;
+        bottom: auto !important;
+        top: 40% !important;         /* Place near the top */
+        transform: translateX(-50%) !important;
+        width: 90vw !important;
+        max-width: 95vw;
+        z-index: 9999;
+        font-size: 0.95rem;
+        padding: 0.75rem;
+        box-sizing: border-box;
+    }
+
+    .how-it-works-tooltip,
+    .example-prompts-tooltip,
+    .disclaimer-tooltip {
+        width: 90vw;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 0.95rem;
+        padding: 0.75rem;
+    }
+}
+
+/* Ensure tooltips don't overflow on small screens */
+@media (max-width: 350px) {
+    .how-it-works-tooltip,
+    .example-prompts-tooltip,
+    .disclaimer-tooltip {
+        width: 98vw;
+        font-size: 0.85rem;
+        padding: 0.2rem;
+    }
+}
+
+.how-it-works-btn,
+.example-prompts-btn,
+.disclaimer-tooltip {
+    background-color: #FFD700;
+    color: #1D1D1F;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 24px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    margin: 1rem auto;
+    display: block;
+}
+
+.how-it-works-btn:hover .how-it-works-tooltip,
+.example-prompts-btn:hover .example-prompts-tooltip,
+.disclaimer-tooltip:hover .disclaimer-tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.how-it-works-tooltip,
+.example-prompts-tooltip,
+.disclaimer-tooltip {
+    visibility: hidden;
+    opacity: 0;
+    width: 320px;
+    background-color: #222;
+    color: white;
+    text-align: left;
+    border-radius: 8px;
+    padding: 1rem;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -200%;
+    transition: opacity 0.3s;
+    font-size: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1.5rem; /* space between buttons */
+    margin-bottom: 1rem;
+    flex-wrap: wrap; /* allows stacking on small screens */
+}
+
+h1 {
+    color: #FFD700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #7640FF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2, h3, h4 {
+    color: #FFD700;
+}
+
+hr {
+    border: 1px solid #3D3D3D;
+}
+
+.sticky-header {
+    position: fixed;
+    top: 3.5rem;
+    left: 0;
+    width: 100vw;
+    z-index: 1000;
+    background-color: #1D1D1F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 0.5rem 0;
+}
+
+.sticky-header img {
+    width: 200px;
+    height: auto;
+}
+
+@media (max-width: 480px) {
+    .sticky-header img {
+        width: 150px;
+        max-width: 30vw;
+    }
+    .sticky-header .revolgy-text {
+        font-size: 1rem;
+    }
+}

@@ -1,0 +1,807 @@
+{
+    "event_name": "Google Cloud Summit Czech Republic 2025",
+    "event_description": "Join us for a unique opportunity to network with industry peers, connect directly with Google Cloud experts, and engage with our dynamic partner ecosystem. Discover the latest technology trends shaping the future, including generative AI, application modernization, data platform, open infrastructure, security, productivity, and the newest innovations in collaboration. Gain actionable insights and strategies to accelerate your company's digital transformation journey. This isn't just another event; it's a chance to gain your competitive edge! Space is limited! Join us in-person at the Prague Congress Centre —a venue with breathtaking views of the city's historic skyline. We can't wait to see you there! Stay tuned to this page for exciting updates on speakers and session details.",
+    "event_venue": "Prague Congress Centre",
+    "event_date": "May 27, 2025 8:30 AM  - 9:00 PM  GMT+2",
+    "event_venue_address": "5. května 65, 140 21 Praha 4, Czechia",
+    "event_website": "https://cloudonair.withgoogle.com/events/summit-czechrepublic-25",
+    "sessions": [
+        {
+            "title": "Registration",
+            "stage": "",
+            "start_time": "8:30 AM",
+            "end_time": "9:30 AM",
+            "speakers": [],
+            "description": ""
+        },
+        {
+            "title": "The New Way To Cloud - Keynote",
+            "stage": "Main Auditorium",
+            "start_time": "9.30 AM",
+            "end_time": "11:00 AM",
+            "speakers": ["David Pavlik", "Marianna Janik", "Alex Rutter", 
+            "Bernd Stopper", "Ondrej Kratky", "Boris Georgiev", "Diana Nanova",
+            "Suzana Drakulic", "Abhishek Goel", "Itxaso Araque",
+            "Katelyn Bailey"],
+            "description": "Taking place in the Main Auditorium."
+        },
+        {
+            "title": "Coffee break",
+            "stage": "",
+            "start_time": "11:00 AM",
+            "end_time": "11:15 AM",
+            "speakers": [],
+            "description": ""
+        },
+        {
+            "title": "What's new in Google GenAI and AI? Featuring JetBrains",
+            "stage": "Applied AI Stage",
+            "start_time": "11:15 AM",
+            "end_time": "12:00 PM",
+            "speakers": ["Itxaso Araque", "Jan Šmerhovský", "Mikhail Vink"],
+            "description": "This session explores Google Cloud's approach to generative AI and how organizations are using it in production. Along with the showcases new announcements for foundation models, agent-building frameworks, and integrated agent spaces. We will also welcome Jetbrains on stage that will speak about partnership with Google Cloud in regards to GenAI."
+        },
+        {
+            "title": "GenDigital: AI-Powered Scam Protection",
+            "stage": "Applied AI Stage",
+            "start_time": "12:00 PM",
+            "end_time": "12:30 PM",
+            "speakers": ["Joao Da Silva Cunha"],
+            "description": "Discover how Gen Digital's Norton Genie with 1M downloads leverages Google Cloud's Vertex AI to detect scam and fraud. This session will explore how Genie utilizes a full stack of Vertex AI services, including Pipelines, Vector Search, and Gemini, to provide real-time scam analysis of text messages, emails, and web content."
+        },
+        {
+            "title": "Lunch",
+            "stage": "",
+            "start_time": "12:30 PM",
+            "end_time": "1:30 PM",
+            "speakers": [],
+            "description": ""
+        },
+        {
+            "title": "GymBeam and AI empowering business competitiveness",
+            "stage": "Applied AI Stage",
+            "start_time": "1:30 PM",
+            "end_time": "2:00 PM",
+            "speakers": ["Dalibor Cicman"],
+            "description": "Discover how GymBeam, a leading e-commerce company in the fitness industry, is leveraging Google Cloud's Vertex AI to enhance its business competitiveness."
+        },
+        {
+            "title": "Unlock Efficiency: Third-Party Integration within Google Agentspace (business)",
+            "stage": "Applied AI Stage",
+            "start_time": "2:00 PM",
+            "end_time": "2:20 PM",
+            "speakers": ["Christos Polydorou"],
+            "description": "How Agentspace connectors enable seamless workflow automation, enterprise information discovery, and expert agent deployment for streamlined business functions."
+        },
+        {
+            "title": "Agentification: Agentic AI Strategy and lessons learned from first Agentic implementations",
+            "stage": "Applied AI Stage",
+            "start_time": "2:20 PM",
+            "end_time": "2:50 PM",
+            "speakers": ["Tervel Šopov", "Ester Víznerová"],
+            "description": "Join Deloitte as they demystify the world of AI agents and offer a conceptual framework for building intelligent solutions. This session explores the key considerations for agent design, development, and deployment, focusing on a practical, use-case-driven approach."
+        },
+        {
+            "title": "Cloudfresh & GitLab: Accelerate Innovation with GitLab Duo",
+            "stage": "Applied AI Stage",
+            "start_time": "2:50 PM",
+            "end_time": "3:10 PM",
+            "speakers": ["Vita Usatiuk", "Timur Anosov", "Breno Gomes"],
+            "description": "Accelerate innovation with GitLab Duo and Vertex AI on Google Cloud. This session will showcase how to deploy live applications on Google Cloud using GitLab Duo, entirely powered by AI – with no human input required."
+        },
+        {
+            "title": "Coffee break",
+            "stage": "",
+            "start_time": "3:10 PM",
+            "end_time": "3:30 PM",
+            "speakers": [],
+            "description": ""
+        },
+        {
+            "title": "Building Multi-Agent Systems with Vertex AI (technical)",
+            "stage": "Applied AI Stage",
+            "start_time": "3:30 PM",
+            "end_time": "4:00 PM",
+            "speakers": ["Duygu Ider", "Tanvi Singhal"],
+            "description": "This session explores how to simplify the creation, deployment, and management of AI agents for businesses using the Agent Development Kit (ADK) and Agent2Agent (A2A) protocol. Learn how to streamline agent interaction and enhance Vertex AI Agent Builder with Agent Garden and Agent Engine."
+        },
+        {
+            "title": "How to build GenAI focused teams",
+            "stage": "Applied AI Stage",
+            "start_time": "4:00 PM",
+            "end_time": "4:15 PM",
+            "speakers": ["Dorian Hodorogea"],
+            "description": "With a shift in the usage from traditional AI to more LLM approaches, there also needs to be a shift in the teams in terms of roles, approaches and how to build products so that more of the usecases end up in production. The presentation will also focus on a short study related to the current state of GenAI in terms of implementation, usecases and why not so many end up in production."
+        },
+        {
+            "title": "Data Analytics and the aftermath of AI wave",
+            "stage": "Applied AI Stage",
+            "start_time": "4:15 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Katerina Tzouvara"],
+            "description": "In the session we will focus on the impact of AI in the data analytics world. We will share an overview of Google cloud vision and product offering based on the AI opportunity. With BigQuery at its heart we will deep dive into Data Analytics offering."
+        },
+        {
+            "title": "Keboola and MCP server in action",
+            "stage": "Applied AI Stage",
+            "start_time": "4:30 PM",
+            "end_time": "4:45 PM",
+            "speakers": ["Vojtěch Tůma"],
+            "description": "See how Keboola combined with an MCP server streamlines data pipeline development and deployment for robust production environments. Learn to build, automate, and scale data operations, accelerating data delivery and maximizing business impact."
+        },
+        {
+            "title": "Accelerate Creative Media Content with Gen AI (business)",
+            "stage": "Applied AI Stage",
+            "start_time": "4:45 PM",
+            "end_time": "5:00 PM",
+            "speakers": ["Jan Šmerhovský"],
+            "description": "This session explores generative media models across video, image, speech, and music within Vertex AI. The session highlights inpainting capabilities for reconstructing missing or damaged portions of an image and advanced editing features in the latest Veo model."
+        },
+        {
+            "title": "Networking",
+            "stage": "",
+            "start_time": "5:00 PM",
+            "end_time": "9:00 PM",
+            "speakers": [],
+            "description": ""
+        },
+        {
+            "title": "The Rise of Autonomous Analytics: Agents, Data Foundations, and What's Next with Google Cloud",
+            "stage": "Data & Analytics Stage",
+            "start_time": "11:15 AM",
+            "end_time": "12:10 PM",
+            "speakers": ["Firat Tekiner"],
+            "description": "Witness the evolution of data analytics towards greater autonomy, driven by intelligent agents operating on robust data foundations. This keynote explores this significant shift and how Google Cloud is leading the charge. Discover how our comprehensive Data Analytics portfolio, unified by BigQuery, is integrating agentic capabilities to automate complex tasks, streamline data preparation, and accelerate insight generation with less manual intervention. We'll be showcasing what's next in building self-optimizing, intelligent data ecosystems that serve as the bedrock for your most ambitious AI initiatives. Prepare to see how autonomous analytics is becoming a reality, transforming how you harness data for competitive advantage."
+        },
+        {
+            "title": "Kiwi.com’s Bigtable Adoption Story",
+            "stage": "Data & Analytics Stage",
+            "start_time": "12:10 PM",
+            "end_time": "12:30 PM",
+            "speakers": ["Ludmila Šámalová", "Martin Sucha"],
+            "description": "Ever wondered what it takes to migrate a critical search engine database handling over a million queries per second? We'll take you through Kiwi.com journey, sharing both wins and unexpected challenges. Discover how we reimagined our data storage to better serve our high-performance flight search platform while diving into technical challenges. From optimizing protocol buffer serialization and managing TTLs to leveraging Bigtable's key ordering capabilities, we'll cover the engineering decisions that mattered most. Whether you're considering adopting Bigtable or just database-curious, this presentation delivers practical insights gained through hands-on experience."
+        },
+        {
+            "title": "GymBeam and AI empowering business competitiveness",
+            "stage": "Data & Analytics Stage",
+            "start_time": "1:30 PM",
+            "end_time": "2:00 PM",
+            "speakers": ["Dalibor Cicman"],
+            "description": ""
+        },
+        {
+            "title": "DataLakes: the present and future of AI driven data platforms",
+            "stage": "Data & Analytics Stage",
+            "start_time": "2:00 PM",
+            "end_time": "2:30 PM",
+            "speakers": ["Dorian Hodorogea"],
+            "description": "A hands-on deep-dive in harnessing the value of unstructured data using the DataLake framework. From images, to audio, to video, to documents and embeddings. We'll cover the solution to understand how to enable today's real world projects using a distributed and shared trainability on organizational data."
+        },
+        {
+            "title": "From Cloud SQL to AlloyDB: Scaling ROUVY's Data Layer for Performance and Reliability",
+            "stage": "Data & Analytics Stage",
+            "start_time": "2:30 PM",
+            "end_time": "2:50 PM",
+            "speakers": ["Matúš Kocka", "Martin Jiřík"],
+            "description": "Learn how ROUVY, the Czech software company renowned for its immersive indoor cycling app, strategically evolved its relational data infrastructure on Google Cloud. We'll detail their migration from Cloud SQL to AlloyDB, the rationale behind Cloud SQL tier upgrades, and the significant performance and operational gains achieved. Discover ROUVY's AlloyDB setup, insights into tackling challenges like connection limits, and practical PostgreSQL debugging methods for your GCP database strategy."
+        },
+        {
+            "title": "T-Mobile's Path to Data Democratization with Data Mesh",
+            "stage": "Data & Analytics Stage",
+            "start_time": "2:50 PM",
+            "end_time": "3:10 PM",
+            "speakers": ["Jan Rosmarin", "Adéla Ráčková"],
+            "description": "Hear from T-Mobile's Adéla Ráčková, Data Tribe Lead and Jan Rosmarin, Academy & Innovations Product Owner, about their journey to implement a data mesh architecture on Google Cloud. This session will explore their motivations for data cloudification, the challenges encountered, and how they are fostering data democratization and the creation of innovative data products."
+        },
+        {
+            "title": "How GoOut and Revolgy engineered a data-driven future",
+            "stage": "Data & Analytics Stage",
+            "start_time": "3:30 PM",
+            "end_time": "4:00 PM",
+            "speakers": ["David Zettl", "Jan Halama", "Miroslav Vlasák"],
+            "description": "What happens when you stop firefighting and start scaling? What do you do when your tech stack can’t keep up and your team is stuck? GoOut faced that wall and made a bold move: migrated MySQL out of Percona instances into Cloud SQL and upgraded to MySQL 8.0, streamed data into BigQuery in real time, and handed off 24/7 Ops to Revolgy. The result? Better data, faster decisions, and a team finally free to build. This session unpacks the turning points, trade-offs, and lessons learned."
+        },
+        {
+            "title": "What's New in Google Cloud Databases",
+            "stage": "Data & Analytics Stage",
+            "start_time": "4:00 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Yiğit Yaşayanlar"],
+            "description": "Explore the latest momentum in Google Cloud Databases and what sets our platform apart. This session unveils key product updates for Spanner, AlloyDB, CloudSQL, Bigtable, and more. Get a first look at our exciting databases roadmap and discover how Google Cloud is innovating for your data needs."
+        },
+        {
+            "title": "Top strategies to manage Compute and Storage costs in BigQuery",
+            "stage": "Data & Analytics Stage",
+            "start_time": "4:30 PM",
+            "end_time": "4:45 PM",
+            "speakers": ["Yuliia Tkachova"],
+            "description": "During this session, we will explain and go through the examples of: when it's the right time to enable Editions (slot hours) billing model and move on from On-demand billing; when it's better to combine both billing models; how to ensure your data warehouse will not hit capacity limits. We'll also cover when it's right to commit with Editions Enterprise and how to manage it properly so you don't hit the ceiling with your provisioned capacity."
+        },
+        {
+            "title": "The Future of Campaigns: A Google Chocolate AI Live Demo",
+            "stage": "Data & Analytics Stage",
+            "start_time": "4:45 PM",
+            "end_time": "5:00 PM",
+            "speakers": ["Tomasz Czarnecki"],
+            "description": "Witness the future of customer engagement in action with a live demo of Google's 'Chocolate AI.' Leveraging the power of Google Cloud's data analytics and Generative AI, this innovative solution uncovers deeper customer insights and enables real-time, hyper-targeted campaigns for unprecedented conversion rates. See firsthand how 'Chocolate AI' streamlines marketing processes, freeing your team to focus on strategic initiatives and revolutionize your customer interactions."
+        },
+        {
+            "title": "AI Infrastructure in Google Cloud",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "11:15 AM",
+            "end_time": "11:40 AM",
+            "speakers": ["Aram Avetisyan"],
+            "description": "What's new in Google Cloud AI Infrastructure, Introduction of Google Cloud Cluster Director"
+        },
+        {
+            "title": "From Access to Audit: Mastering Cloud Controls with Deutsche Börse.",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "11:40 AM",
+            "end_time": "12:10 PM",
+            "speakers": ["Petr Černohorský", "Jan Kačírek"],
+            "description": "Highly regulated industries face unique cloud security challenges. Discover how Deutsche Börse tackles these challenges head-on with Google Cloud's robust control framework – IAM, Security Command Center, Audit Manager, VPC Service Controls, and more. The result? A streamlined and secure environment that empowers admins, developers, and security to innovate with confidence."
+        },
+        {
+            "title": "We Need Infrastructure - FAST: A GCP Landing Zone Story",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "12:10 PM",
+            "end_time": "12:30 PM",
+            "speakers": ["Lukáš Nagy"],
+            "description": "At FTMO, rapid growth meant our central GCP project became a bottleneck. Join our session for the real story of FTMO's first Landing Zone, empowering developers without overwhelming them. Discover how we leveraged Google's FAST framework as a launchpad and get a candid look at the technical and process hiccups we navigated. You'll gain practical insights from our journey to apply to your own."
+        },
+        {
+            "title": "Cloud NGFW and L7 Inspection",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "2:00 PM",
+            "end_time": "2:30 PM",
+            "speakers": ["Pavel Krejsa"],
+            "description": "Deep dive how to secure your workloads by inspecting HTTPs traffic within VPC without any workload configuration change."
+        },
+        {
+            "title": "Where do I run my containers?",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "2:30 PM",
+            "end_time": "2:50 PM",
+            "speakers": ["Nicolae Ciobanu"],
+            "description": "This session demystifies the age-old question of container deployment by diving into the dynamic duo of Google Cloud: GKE and Cloud Run. Forget dry technical jargon; we'll explore real-world use cases with relatable examples."
+        },
+        {
+            "title": "Protect your cloud data with Security Command Center",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "2:50 PM",
+            "end_time": "3:10 PM",
+            "speakers": ["Cosmin Pascu"],
+            "description": "As a cloud security professional, you are responsible for protecting your valuable cloud data. This technical session demonstrates how Security Command Center can help you automatically discover your cloud data assets, pinpoint which datasets may be at risk, define and implement the right posture controls to protect data and manage access, and provide your team with real-time alerting of data security violations. Get ready to prevent breaches, reduce insider risk, and meet compliance requirements."
+        },
+        {
+            "title": "Using TPU and GPUs together for AI inference with vLLM",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "3:30 PM",
+            "end_time": "4:00 PM",
+            "speakers": ["Aram Avetisyan"],
+            "description": "We will show an example of how a customer can use GPUs and TPUs together during AI inference using GKE and custom commute classes."
+        },
+        {
+            "title": "Kube Resource Orchestrator: Simplify Kubernetes Resource Optimization",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "4:00 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Simona Botner"],
+            "description": "This session provides a technical dive into Kube Resource Orchestrator, a groundbreaking tool for Kubernetes resource management. We'll explore its architecture, key components, and how it integrates with existing Kubernetes infrastructure. Learn how it leverages advanced algorithms and machine learning to automate resource optimization, improve cluster density, and reduce operational complexity. We'll also cover its API, configuration options, and best practices for deployment and management."
+        },
+        {
+            "title": "Don't Play with Fire: Bet on AI and Google Workspace for a Secure Future for Your Business",
+            "stage": "Infrastructure & Security Stage",
+            "start_time": "4:30 PM",
+            "end_time": "5:00 PM",
+            "speakers": ["Marcin Wodziński", "Mateusz Jankowski"],
+            "description": ""
+        },
+        {
+            "title": "Google Workspace with Gemini: The AI powered Future of Work",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "11:15 AM",
+            "end_time": "11:40 AM",
+            "speakers": ["Mariya Andonova"],
+            "description": "In Google we believe AI is foundational to the future of work and its transformative power shouldn’t be limited to a select few. Instead, it should be accessible to every business and every employee. That's why we’re including the best of Google AI in Google Workspace Business and Enterprise plans. Join us to hear how you can work smarter and faster with Gemini in Google Workspace."
+        },
+        {
+            "title": "A smarter solution with Google Workspace: AI-powered Use Cases",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "11:40 PM",
+            "end_time": "12:10 PM",
+            "speakers": ["Christian Mannenbach"],
+            "description": "What is a smart solution? How can the only fully AI integrated productivity solution drive value to your business and people? Come join us for a deep dive into high value, low effort changes that AI can bring to your organization and accelerate your goals."
+        },
+        {
+            "title": "Google Meet Hardware & AI: The Future of Productive Video Conferencing",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "12:10 PM",
+            "end_time": "12:30 PM",
+            "speakers": ["Georgi Nikolov"],
+            "description": "Join us to explore how Google Meet Hardware and built-in AI features are transforming video conferencing in the workplace. From smart cameras and intuitive controls to AI-driven tools like take notes for me, live captions, and real-time translation, you'll understand how these technologies boost productivity and simplify collaboration-especially in hybrid work environment."
+        },
+        {
+            "title": "Google Cloud for Startups",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "2:00 PM",
+            "end_time": "2:30 PM",
+            "speakers": ["Laura Jurevica"],
+            "description": "Join us to discover how the Google Cloud for Startups program can supercharge your early-stage company! Learn about significant Google Cloud credits (up to $200K, or $350K for AI startups), alongside exclusive Google perks like Workspace access and Maps Platform credits. We'll also cover the different program tiers and the extensive support available, from technical mentorship to go-to-market strategies, helping your startup build and scale faster."
+        },
+        {
+            "title": "Founders Stories: Vassili Le Moigne from Intouch.family and Jirka Bachel from Navigara.com",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "2:30 PM",
+            "end_time": "2:50 PM",
+            "speakers": ["Martin Svoboda", "Vassili Le Moigne", "Jiří Bachel"],
+            "description": "How Google Cloud for Startups programs helped accelerate their development, what was the founder's experience and what recommendations that would give to others not to omit when participating in the program?"
+        },
+        {
+            "title": "Investor Panel",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "2:50 PM",
+            "end_time": "3:10 PM",
+            "speakers": ["Joseph Michael", "Petr Šmíd", "Matěj Míček", "Barbora Werdmölder"],
+            "description": "Join this session to hear from some of the leading investors in the region. Petr Šmíd from Rockaway Ventures, Matěj Míček from Credo Ventures and Barbora Werdmölder from Czechfounders.org will join the panel to share their views on the startup and AI landscape."
+        },
+        {
+            "title": "All you need is Google Cloud",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "3:30 PM",
+            "end_time": "4:00 PM",
+            "speakers": ["Tomáš Czakó"],
+            "description": "Are you ready to build a billion-dollar business? It all starts with the right foundation. Discover how Google Cloud provides everything your IT needs – including devices, productivity tools, and advanced enterprise infrastructure. Whether you're just starting out or operating globally, Google Cloud offers unified, flexible, reliable, and secure services that scale with your needs and deliver significant value. Join us to see how DPDC, a trusted partner for leading companies, can help you succeed on Google Cloud."
+        },
+        {
+            "title": "Build Fast, Gen AI apps",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "4:00 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Juraj Gvoth"],
+            "description": "You have an excellent idea, AI use-case is there, all you need is to create a proof-of-concept to prove it.So I'll show you how to get prototyping with just Python, Langchain, and Streamlit via practical demo. For (mainly) not-coders from another not-a-coder."
+        },
+        {
+            "title": "What's new in Pixel",
+            "stage": "Collaboration & Innovation Stage",
+            "start_time": "4:30 PM",
+            "end_time": "5:00 PM",
+            "speakers": ["Alexandra Pahomi"],
+            "description": ""
+        },
+        {
+            "title": "Gemini for Developers",
+            "stage": "App Developers Stage: BRING YOUR OWN DEVICE",
+            "start_time": "11:00 AM",
+            "end_time": "11:45 AM",
+            "speakers": ["Valentin Deleplace"],
+            "description": "Discover Gemini, Google’s most capable generative AI model. Learn to build real-time voice and video apps with the Multimodal Live API, use Google Search and Maps to ground responses, and detect objects in images and video using natural language prompts. Explore Gemini’s improved multimodal understanding, coding, and complex instruction following – making it ideal for developing AI agents. Experience preview features like customizable speech generation (control tone, pace, accent, and intonation) and image generation. Plus, learn where all the great notebooks and tutorials are for learning more. After this session, you’ll be ready to build with Gemini on Google Cloud and beyond."
+        },
+        {
+            "title": "Live coding magic tricks with Gemini Code Assist",
+            "stage": "App Developers Stage: BRING YOUR OWN DEVICE",
+            "start_time": "11:45 AM",
+            "end_time": "12:30 PM",
+            "speakers": ["Esther Lloyd"],
+            "description": "Can you build a Node.js web app without writing code? In this live coding session, Esther explores the practical capabilities of Gemini Code Assist, attempting to build and deploy a functional application on Google Cloud using only prompts. Expect her to get real about what's possible (and what's not) with AI-driven development, showcasing both the potential and the current limitations. This session is perfect for developers of all levels interested in AI-assisted coding and the future of software."
+        },
+        {
+            "title": "The ultimate Cloud Run guide: From zero to production",
+            "stage": "App Developers Stage: BRING YOUR OWN DEVICE",
+            "start_time": "1:30 PM",
+            "end_time": "2:30 PM",
+            "speakers": ["Wietse Venema"],
+            "description": "Cloud Run is a fully managed platform that enables you to run your code directly on top of Google's scalable infrastructure. Cloud Run is simple, automated, and designed to make you more productive. Learn how to get started, and dive deep into even the most advanced features to learn how to make the most of Cloud Run."
+        },
+        {
+            "title": "Cloud Runner 2049",
+            "stage": "App Developers Stage: BRING YOUR OWN DEVICE",
+            "start_time": "2:30 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Daniel Stamer"],
+            "description": "Cloud Runner 2049 immerses you in the neon-drenched cyberpunk world of Synth City. The cyberspace is controlled by mega corporations and everything is at stake. Synthia, a rogue AI with a rebellious spirit, has detected a catastrophic plot by the malevolent OmegaCorp and reaches out to you for help... Become a Cloud Runner, jack into the Matrix, build out infrastructure, hack systems, write code and exfiltrate data packages to expose OmegaCorp. Learn, improve and hone your cloud skills with Cloud Run, Pub/Sub, Gemini Code/Cloud Assist and more."
+        },
+        {
+            "title": "Churn prediction and Gemini for hyper-personalized recommendations",
+            "stage": "Data Practitioners Stage",
+            "start_time": "11:00 AM",
+            "end_time": "4:30 PM",
+            "speakers": ["Diana Nanova", "Jelena Mijuskovic"],
+            "description": "Join us for a hands-on workshop where you will learn to build an automated churn prediction pipeline, from raw data ingestion & transformation to personalized outreach leveraging BigQuery and Gemini. This workshop is designed for data analysts, machine learning engineers, and data scientists eager to get their hands dirty and build a complete solution."
+        },
+        {
+            "title": "Gemini in Education",
+            "stage": "Google for Education",
+            "start_time": "11:15 AM",
+            "end_time": "12:10 PM",
+            "speakers": ["Josef Dašek"],
+            "description": "Explore Gemini and its features and integration into Google Workspace for Education to revolutionize teaching and learning. This session will showcase how key features such as Gems offer customized AI assistance, Canvas provides a collaborative space for creation and iteration, Deep Research enables efficient and comprehensive information gathering, and NotebookLM transforms documents into interactive learning resources, all working together to enhance productivity, creativity, and deeper engagement for educators and students alike."
+        },
+        {
+            "title": "Partner-led demo chromebook session",
+            "stage": "Google for Education",
+            "start_time": "2:00 PM",
+            "end_time": "2:50 PM",
+            "speakers": ["Ivo Klvaň"],
+            "description": ""
+        },
+        {
+            "title": "Google Workspace and chromebooks: ideal companions for education",
+            "stage": "Google for Education",
+            "start_time": "3:30 PM",
+            "end_time": "4:30 PM",
+            "speakers": ["Josef Dašek"],
+            "description": "This session will highlight how Google Workspace for Education, encompassing essential tools like Gmail, Meet, Docs, Sheets, Slides, Classroom, Drive, and the Admin console, combined with the versatility and manageability of Chromebooks, creates a powerful and cohesive ecosystem for schools. We will provide an overview of the various Google Workspace for Education license offerings explaining key features and benefits of each, and demonstrate why Chromebooks are the ideal companion devices, offering seamless integration, robust security, and simplified management through ChromeOS and the Chrome Education Upgrade, ultimately fostering a collaborative, accessible, and efficient learning environment."
+        }
+
+    ],
+    "speakers": [
+    {
+        "name": "David Pavlík",
+        "position": "CTO",
+        "company": "Rohlik Group"
+    },
+    {
+        "name": "Ondřej Krátký",
+        "position": "CEO & Founder",
+        "company": "Grid.online"
+    },
+    {
+        "name": "Abhishek Goel",
+        "position": "Director IT",
+        "company": "T-Mobile CZ/SK"
+    },
+    {
+        "name": "Dalibor Cicman",
+        "position": "CEO & Founder",
+        "company": "GymBeam"
+    },
+    {
+        "name": "Marianne Janik",
+        "position": "Vice President - EMEA North",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Boris Georgiev",
+        "position": "Director - CEE & CIS",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Itxaso Araque",
+        "position": "Head of AI GTM in EMEA North",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Diana Nanova Customer Engineering Manager for Data Analytics - Digital Natives",
+        "position": "Google Cloud",
+        "company": ""
+    },
+    {
+        "name": "Katelyn Bailey",
+        "position": "Senior Manager",
+        "company": "Mandiant Intelligence & Security"
+    },
+    {
+        "name": "Alex Rutter",
+        "position": "EMEA Managing Director - Artificial Intelligence",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Bernd Stopper",
+        "position": "Director of Partner Business",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Petr Černohorský",
+        "position": "Product Manager Core Infrastructure",
+        "company": "Deutsche Börse Group"
+    },
+    {
+        "name": "Jan Kačírek",
+        "position": "Security Engineer",
+        "company": "Deutsche Börse Group"
+    },
+    {
+        "name": "Lukáš Nagy",
+        "position": "DevOps Engineer",
+        "company": "FTMO"
+    },
+    {
+        "name": "Joao Da Silva Cunha",
+        "position": "Senior MLOps Engineering Manager",
+        "company": "GEN Digital"
+    },
+    {
+        "name": "Mikhail Vink",
+        "position": "VP of Business Development",
+        "company": "JetBrains"
+    },
+    {
+        "name": "Ludmila Šámalová",
+        "position": "Engineering Lead",
+        "company": "Kiwi.com"
+    },
+    {
+        "name": "Martin Sucha",
+        "position": "Staff Software Engineer",
+        "company": "Kiwi.com"
+    },
+    {
+        "name": "Matúš Kocka",
+        "position": "Technical Director",
+        "company": "ROUVY"
+    },
+    {
+        "name": "Martin Jiřík",
+        "position": "Senior DevOps",
+        "company": "ROUVY"
+    },
+    {
+        "name": "Adéla Ráčková",
+        "position": "Data Tribe Lead",
+        "company": "T-Mobile"
+    },
+    {
+        "name": "Jan Rosmarin",
+        "position": "Academy & Innovations Product Owner",
+        "company": "T-Mobile"
+    },
+    {
+        "name": "David Zettl",
+        "position": "CTO",
+        "company": "GoOut"
+    },
+    {
+        "name": "Ester Víznerová",
+        "position": "AI & Data Manager",
+        "company": "Deloitte"
+    },
+    {
+        "name": "Tervel Šopov",
+        "position": "Partner",
+        "company": "Deloitte"
+    },
+    {
+        "name": "Vita Usatiuk",
+        "position": "Sales Executive",
+        "company": "Cloudfresh"
+    },
+    {
+        "name": "Timur Anosov",
+        "position": "Senior Commercial Account Executive",
+        "company": "GitLab"
+    },
+    {
+        "name": "Breno Gomes",
+        "position": "Solution Architect",
+        "company": "GitLab"
+    },
+    {
+        "name": "Tomáš Czakó",
+        "position": "Chief Cloud Officer",
+        "company": "DPDC"
+    },
+    {
+        "name": "Yuliia Tkachova",
+        "position": "Co-founder & CEO",
+        "company": "Masthead Data"
+    },
+    {
+        "name": "Miroslav Vlasák",
+        "position": "CEO",
+        "company": "Revolgy"
+    },
+    {
+        "name": "Mariya Andonova",
+        "position": "New Business Sales Specialist - Google Workspace",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Georgi Nikolov",
+        "position": "Google Meet Hardware Sales Manager",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Josef Dašek",
+        "position": "Coordinator of Google for Education",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Aram Avetisyan",
+        "position": "Customer Engineer - Infrastructure Modernization",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Simona Botner",
+        "position": "Customer Engineer - Public Sector",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Tomasz Czarnecki",
+        "position": "Data Analytics Sales Specialist",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Valentin Deleplace",
+        "position": "Developer Advocate",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Juraj Gvoth",
+        "position": "Customer Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Dorian Hodorogea",
+        "position": "Customer Engineer - Data Analytics and AI/ML Specialist",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Duygu Ider",
+        "position": "GenAI Field Solutions Architect",
+        "company": ""
+    },
+    {
+        "name": "Laura Jurevica",
+        "position": "Startup Success Manager",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Pavel Krejsa",
+        "position": "GCC: Customer Engineer - Infrastructure Modernisation",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Esther Lloyd",
+        "position": "Customer Application Development Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Joseph Michael",
+        "position": "Venture Capital Business Development Manager",
+        "company": ""
+    },
+    {
+        "name": "Alexandra Pahomi",
+        "position": "Channel Sales & Activation Manager",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Cosmin Pascu",
+        "position": "Customer Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Christos Polydorou",
+        "position": "Customer Engineer - Infrastructure Modernization",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Tanvi Singhal",
+        "position": "GenAI Field Solutions Architect",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Jan Šmerhovský",
+        "position": "AI GTM Lead - CEE",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Daniel Stamer",
+        "position": "Customer Engineer - Digital Natives",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Firat Tekiner",
+        "position": "Senior Product Manager",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Katerina Tzouvara",
+        "position": "Customer Engineer - Public Sector",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Wietse Venema",
+        "position": "Developer Relations Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Yiğit Yaşayanlar",
+        "position": "Customer Engineer - Data Management",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Nicolae Ciobanu",
+        "position": "Partner Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Vojtěch Tůma",
+        "position": "Field CTO",
+        "company": "Keboola"
+    },
+    {
+        "name": "Martin Svoboda",
+        "position": "Industry Manager for Travel & Tech - Startups and Exporters",
+        "company": "Google"
+    },
+    {
+        "name": "Christian Mannenbach",
+        "position": "Google Workspace CE Teaem Lead",
+        "company": "Google"
+    },
+    {
+        "name": "Vassili Le Moigne",
+        "position": "Founder & CEO",
+        "company": "Intouch.family"
+    },
+    {
+        "name": "Jiří Bachel",
+        "position": "Founder & CEO",
+        "company": "Navigara.com"
+    },
+    {
+        "name": "Petr Šmíd",
+        "position": "Investment Partner",
+        "company": "Rockaway Capital"
+    },
+    {
+        "name": "Matěj Míček",
+        "position": "Investor",
+        "company": "Credo Ventures"
+    },
+    {
+        "name": "Barbora Werdmölder",
+        "position": "Director",
+        "company": "Czech Founders"
+    },
+    {
+        "name": "Jelena Mijuskovic",
+        "position": "Customer Engineer",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Daniel Thaisz",
+        "position": "Google Certified Trainer",
+        "company": "Google"
+    },
+    {
+        "name": "Alexandra Guttmann",
+        "position": "Google Certified Trainer",
+        "company": "Google"
+    },
+    {
+        "name": "Rastislav Medveď",
+        "position": "Google Certified Trainer",
+        "company": "Google"
+    },
+    {
+        "name": "Suzana Drakulic",
+        "position": "Head of Google Workspace Nordic & CEE",
+        "company": "Google Cloud"
+    },
+    {
+        "name": "Ivo Klvaň",
+        "position": "Business Development Manager",
+        "company": "DPDC"
+    },
+    {
+        "name": "Jan Halama",
+        "position": "Data Lead",
+        "company": "GoOut"
+    },
+    {
+        "name": "Marcin Wodziński",
+        "position": "Technical Leader",
+        "company": "FOTC"
+    },
+    {
+        "name": "Mateusz Jankowski",
+        "position": "Cloud Sales Specialist",
+        "company": "FOTC"
+    }
+    ],
+    "partners": ["Revolgy", "Deloitte", "Cloudfresh", "DPDC", "FOTC", "Keboola", "TD Synnex", "Vortex", "Aliz", "AppSatori", "Devoteam", "Globema", "Liferay", "NetApp"]
+
+}
