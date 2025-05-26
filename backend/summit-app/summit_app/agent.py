@@ -1,6 +1,6 @@
 # Revolgy Business Solutions, a.s.
 
-from google.adk.agents import Agent
+from google.adk.agents import Agent, ThinkingConfig
 from google.adk.tools import agent_tool
 from google.adk.tools import VertexAiSearchTool
 from google.adk.tools import google_search

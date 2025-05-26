@@ -115,7 +115,8 @@ You need a Google Cloud project with billing enabled and all necessary APIs (Art
    cd backend/summit-app
    ```
 
-2. **Set required environment variables**  
+2. **Set required environment variables**
+   Copy the .env.example file in the same directory as .env.
    Make sure you are authenticated with `gcloud` and have the necessary permissions.
 
 3. **Deploy to Cloud Run**  

@@ -42,7 +42,7 @@ st.markdown(
     """
     <div style="display: flex; gap: 1.5rem; justify-content: center; align-items: center; padding: 1rem 0;">
         <a href="https://revolgy.com" target="_blank" style="color: #FFD700; text-decoration: none; font-weight: bold;">🔗 revolgy.com</a>
-        <a href="https://github.com/non-existent-repo" target="_blank" style="color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center;">
+        <a href="https://github.com/Revolgy/revolgy-adk-summit-assistant" target="_blank" style="color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center;">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="18" height="18" alt="GitHub" style="filter: invert(48%) sepia(100%) saturate(700%) hue-rotate(230deg) brightness(105%) contrast(95%); margin-right: 0.1rem;">
             Get the code for this app!
         </a>
