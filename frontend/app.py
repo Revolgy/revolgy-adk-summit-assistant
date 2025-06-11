@@ -54,7 +54,7 @@ st.markdown(
 st.markdown(
     """
     <div style="text-align: center; font-size: 1.2rem; margin-bottom: 1.5rem;">
-        <h3>Google Cloud Summit Prague 2025 Assistant</h3>
+        <h3>Google Cloud Summit Nordics 2025 Assistant</h3>
     </div>
     """,
     unsafe_allow_html=True
@@ -83,7 +83,7 @@ st.markdown(
         Disclaimer
         <span class="example-prompts-tooltip disclaimer-tooltip">
             The assistant is for demo purposes and can make mistakes. 
-            Its main purpose is to help with Google Cloud Summit Prague 2025 agenda and find information on Google Cloud services.
+            Its main purpose is to help with Google Cloud Summit Nordics 2025 agenda and find information on Google Cloud services.
             It is not to be treated as a general purpose chatbot e.g. Gemini or ChatGPT. 
             Please verify the information.
         </span>
@@ -175,9 +175,9 @@ if user_input := st.chat_input("Hi attendees! How can I assist you today?"):
 st.markdown(
     """
     <div style="text-align: center; margin-top: 2rem; font-size: 1rem; color: #FFD700;">
-        <a href="https://revolgy.com/blog" target="_blank" style="color: #FFD700; text-decoration: none; font-weight: bold;">How did we build this?</a>
+        <a href="https://www.revolgy.com/insights/blog/building-revolgys-google-cloud-summit-assistant-with-google-adk" target="_blank" style="color: #FFD700; text-decoration: none; font-weight: bold;">How did we build this?</a>
         <span style="margin: 0 1rem;">•</span>
-        <a href="https://revolgy.com/contact" target="_blank" style="color: #FFD700; text-decoration: none; font-weight: bold;">Ask for a 1:1 with our engineer!</a>
+        <a href="https://forms.gle/PH6Df2zZ7VaAQbPd9" target="_blank" style="color: #FFD700; text-decoration: none; font-weight: bold;">Ask for a 1:1 with our engineer!</a>
     </div>
     """,
     unsafe_allow_html=True

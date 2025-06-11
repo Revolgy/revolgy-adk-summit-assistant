@@ -35,7 +35,7 @@ summit_agent = Agent(
     model=MODEL,
     tools=[get_summit_info],
     instruction=prompt.summit_app_instruction_prompt,
-    description="A helpful assistant for Google Cloud Summit Prague 2025.",
+    description="A helpful assistant for Google Cloud Summit Nordics 2025.",
 )
 
 vertex_search_tool_docs = VertexAiSearchTool(data_store_id=DATASTORE_DOCS_ID)
@@ -96,7 +96,7 @@ root_agent = Agent(
     name="summit_app",
     model=MODEL,
     description=(
-        "providing users with information related to Google Cloud Summit Prague 2025, "
+        "providing users with information related to Google Cloud Summit Nordics 2025, "
         "providing information about the event agenda "
         "providing information about the speakers "
         "providing information about the sessions "
